@@ -16,7 +16,13 @@ cd mychat
 pip install -r requirements.txt
 ```
 
-#### 3 - Update Agora credentals
+#### 4 - Creating Vertual Environment
+```
+>>> docs.python.org/3/library/venv.html
+
+```
+
+#### 4 - Update Agora credentals
 In order to use this project you will need to replace the agora credentials in `views.py` and `streams.js`.
 
 Create an account at agora.io and create an `app`. Once you create your app, you will want to copy the `appid` & `appCertificate` to update `views.py` and `streams.js`. If you have questions about where to get your app I'd recommend referencing this link `https://youtu.be/HX6AM_1-jNM?t=88`
