@@ -5,9 +5,9 @@ A Group video calling application using the Agora Web SDK with a Django backend.
 
 ##  How to use this source code
 
-#### 1 - Clone repo
+#### 1 - Install Django
 ```
-git clone https://github.com/divanov11/mychat
+>>>  docs.djangoproject.com/en/4.0/howto/windows/
 ```
 
 #### 2 - Install requirements
